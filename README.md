@@ -1,4 +1,4 @@
-## Oiii eu sou a João Pedro Batista Santos, Developer and mechatronics technician!
+## Hey, i'm João Pedro Batista Santos!
 <div align="center">
   <a href="https://github.com/pepermao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pepermao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -10,10 +10,10 @@
   <img align="center" alt="Pepe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pepe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pepe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Pepe-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="center" alt="Pepe-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Pepe-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Pepe-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
-  
-  ##
  
 <div> 
   <a href="https://instagram.com/j.pedrobs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
