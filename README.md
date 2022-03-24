@@ -1,4 +1,4 @@
-## Hey, i'm João Pedro Batista Santos!
+##  👋 Hey, i'm João Pedro Batista Santos!
 <div align="center">
   <a href="https://github.com/pepermao">
   <img height="200px" width="44%" src="https://github-readme-stats.vercel.app/api?username=pepermao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
